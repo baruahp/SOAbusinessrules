@@ -1,0 +1,17 @@
+SOAbusinessrules Version: 1.0.74
+Project: Service Factory
+Built-By: Torry Harris Business Solutions
+Built-For: O2, UK
+Built-On: 18 Nov 2014
+
+Changes Made:
+ 
+1.Updated the SeasonalAdjustmentStartDate as  2014-12-01 and SeasonalAdjustmentEndDate 
+as 2015-01-12 in  ValidateReturn business rules.
+ 
+ 
+Excel Sheet updated:
+
+1.ValidateReturn.xls
+
+
